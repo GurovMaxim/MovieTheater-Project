@@ -1,0 +1,17 @@
+com\example\MovieTheater\repository\SeatRepository.class
+com\example\MovieTheater\repository\BookingRepository.class
+com\example\MovieTheater\repository\UserRepository.class
+com\example\MovieTheater\service\MovieService.class
+com\example\MovieTheater\service\DatabaseSeeder.class
+com\example\MovieTheater\repository\MovieRepository.class
+com\example\MovieTheater\service\SeatService.class
+com\example\MovieTheater\controller\SeatController.class
+com\example\MovieTheater\model\Seat.class
+com\example\MovieTheater\model\Booking.class
+com\example\MovieTheater\model\Movie.class
+com\example\MovieTheater\dto\BookingRequest.class
+com\example\MovieTheater\controller\BookingController.class
+com\example\MovieTheater\controller\MovieController.class
+com\example\MovieTheater\controller\UserController.class
+com\example\MovieTheater\MovieTheaterBookingApplication.class
+com\example\MovieTheater\model\User.class
